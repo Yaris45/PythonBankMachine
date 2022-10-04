@@ -1,1 +1,3 @@
 # PythonBankMachine
+
+The following program is based on a fully utilizable Banking System program written with the Python coding language. The program itself uses different classes, methods and functions collectively working together in order to make this entire system possible. The system features a simple yet effective login which is then followed by a list of options presented to the user in a menu format. These options include the ability to withdraw and deposit money, checking current balances and previous transactions as well as giving users, the means of transferring funds between each other.
